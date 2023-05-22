@@ -1,2 +1,4 @@
-Fvaltozattas a master egyik fajljan
+F
+Avaltozattas a masteren ugyanabba
+valtozattas a master egyik fajljan
 Test file
