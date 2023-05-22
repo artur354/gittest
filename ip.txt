@@ -1,2 +1,4 @@
-Fvaltozattas a master egyik fajljan
+F
+AValtoztatas a color branchban
+valtozattas a master egyik fajljan
 Test file
