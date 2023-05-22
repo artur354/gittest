@@ -1,4 +1,4 @@
 F
-Avaltozattas a masteren ugyanabba
+AValtoztatas a color branchban
 valtozattas a master egyik fajljan
 Test file
