@@ -6,3 +6,5 @@ Test file
 Ez egy változtatás
 
 új cunci ide a tavoli gfet probalva
+
+hozzáadok messze egy új sort
