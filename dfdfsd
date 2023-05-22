@@ -1,0 +1,63 @@
+[33mcommit f2426889e90857f0a710f6ac1ea89a077ae19fae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: f9d58d5 934b808
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 12:37:27 2023 +0200
+
+     fix merge conflict
+
+[33mcommit f9d58d5d9ea5f5908980eaaa4036af5f2a0cd6d1[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 12:27:31 2023 +0200
+
+    valtoztatas a  master ipjen
+
+[33mcommit 934b8081a9e24d8d469d3f05c2bfbffea65fc86f[m[33m ([m[1;32mcolorbranch[m[33m)[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 12:26:09 2023 +0200
+
+    valtoztatas a colorbranch ipjen
+
+[33mcommit 7e5e4ba2082f8edc4d7cf4bb08419605d6578cc8[m
+Merge: f0060eb 2339d82
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 12:11:43 2023 +0200
+
+    Merge branch 'gittestbranch'
+
+[33mcommit f0060eb6f5b4bfd72b4d5d8d90bbcd9cba8e9a56[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 12:11:29 2023 +0200
+
+    master egyik fajlja modositasa
+
+[33mcommit 2339d824c539754caeb517bb4588f9d04622212e[m[33m ([m[1;32mgittestbranch[m[33m)[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 11:54:31 2023 +0200
+
+    added szoveg
+
+[33mcommit 0ac4aab895cde581159dbe4ef33efd79ee3bea71[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 11:08:47 2023 +0200
+
+     First commit on gttestbranch
+
+[33mcommit 09d015fae9b4e48d458012725b8a6547093e9927[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Mon May 22 10:19:50 2023 +0200
+
+    Add ip. txt
+
+[33mcommit c1b85e9cc3d9b9b3aae597ab64aeec41454a660a[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Fri May 19 21:30:21 2023 +0200
+
+    Second Commit
+    
+    Ooo
+
+[33mcommit 7900c063333f94cdc851c89a55a2562c36e5a0d7[m
+Author: deveushu <deveushu@xdr56tfc.bbmag.bbraun.com>
+Date:   Fri May 19 21:21:41 2023 +0200
+
+    Initial Commit
